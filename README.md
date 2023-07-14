@@ -1,4 +1,4 @@
-# Twitter-Clone | Next | Prisma | MongoDB | NextAuth
+# Threads-Clone | Next | Prisma | MongoDB | NextAuth
 
 ![image](https://github.com/Kushagra102/twitter-clone/assets/96788948/80d93a5a-8cb5-486d-8e42-8f0b84cb7289)
 ![image](https://github.com/Kushagra102/twitter-clone/assets/96788948/9d100378-3dc4-41d3-840f-0954ed336eec)
